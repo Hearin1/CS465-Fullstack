@@ -29,8 +29,13 @@ By completing this project, I have built a strong foundation in full stack devel
 
  
 
+
+
+
+
  
 
+ Below is the Software Design Document: 
  
 
 Travlr Getaways logo 
@@ -49,30 +54,7 @@ Table of Contents
 
  
 
-​​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
+​
 ​​ 
 
 Document Revision History 
@@ -141,12 +123,6 @@ The admin panel will be developed as a Single-Page Application (SPA) using Angul
  
 
 Administrators will have the ability to add, edit, and delete trip listings and manage other website content in real-time. Any changes made through the admin panel will be instantly reflected for all users, ensuring efficient content management and seamless updates. 
-
- 
-
- 
-
- 
 
  
 
